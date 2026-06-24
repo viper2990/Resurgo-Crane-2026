@@ -76,4 +76,6 @@ python "settings_gui 2.py"
 | `gpio_cleanup.py` | GPIO cleanup helper |
 
 <img width="1024" height="768" alt="7df231d0-f4dc-4890-a207-67b59d05a3fe" src="https://github.com/user-attachments/assets/e386e46b-10dd-4783-9671-abc2636cbad2" />
+<img width="5712" height="4284" alt="IMG_0915" src="https://github.com/user-attachments/assets/5c332e3c-c52d-4613-87b9-47b6595c2a46" />
+<img width="5712" height="4284" alt="IMG_0916" src="https://github.com/user-attachments/assets/2eae19b1-3959-4dfb-87ef-8038495af370" />
 
