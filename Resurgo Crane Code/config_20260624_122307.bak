@@ -1,0 +1,55 @@
+{
+  "motors": [
+    {
+      "speed": 0.0001,
+      "direction": "forward",
+      "step_pin": 26,
+      "dir_pin": 16
+    },
+    {
+      "speed": 0.0001,
+      "direction": "reverse",
+      "step_pin": 23,
+      "dir_pin": 22
+    },
+    {
+      "speed": 0.0001,
+      "direction": "forward",
+      "step_pin": 4,
+      "dir_pin": 27
+    },
+    {
+      "speed": 5e-06,
+      "direction": "forward",
+      "step_pin": 21,
+      "dir_pin": 13
+    }
+  ],
+  "joystick": {
+    "gpio_pins": [
+      5,
+      25,
+      24,
+      6,
+      17,
+      19
+    ]
+  },
+  "microswitches": {
+    "gpio_pins": [
+      18,
+      9,
+      11,
+      12,
+      10
+    ]
+  },
+  "motor4_limit": {
+    "min_steps": 0,
+    "max_steps": 29000
+  },
+  "servo1_limits": {
+    "min_angle": -5.0,
+    "max_angle": 55.0
+  }
+}
